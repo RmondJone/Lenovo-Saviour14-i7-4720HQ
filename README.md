@@ -40,7 +40,7 @@ MacOS |11.6.1
 ### 四、安装教程
 最好手头上有一个苹果电脑，如果没有苹果电脑也可以用WinPE，后面会说怎么弄。
 
-#### 1、使用BalenaEtcher烧录镜像
+### 1、使用BalenaEtcher烧录镜像
 
 这里没啥好说的，准备一个16G的U盘就行，镜像地址文章最后会贴出来。烧录完，重新插拔一下就可以看到制作好的U盘启动盘了。
 ![](https://upload-images.jianshu.io/upload_images/6023277-1b0e0977a6412f9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
